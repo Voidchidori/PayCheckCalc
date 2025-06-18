@@ -29,6 +29,7 @@ public class PayCheckCalc {
         jframe.add(currentBalance, BorderLayout.NORTH);
         jframe.add(hoursInput, BorderLayout.CENTER);
         jframe.setVisible(true);   
+         
     }
 
     public static void main(String[] args) {
